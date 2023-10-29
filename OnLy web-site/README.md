@@ -1,4 +1,4 @@
-this is a practice Website and it's just for fun. 
+This is a practice Website and it's just for fun. 
 The opening page of this Website is "index.html" 
 this website will not harm any religious and cultural thing.
 This website is created for fun.
